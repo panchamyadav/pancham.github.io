@@ -1,2 +1,2 @@
-# pancham.github.io
+# Personal website.
 Website outline.
