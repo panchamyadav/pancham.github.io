@@ -1,2 +1,2 @@
 # Personal website.
-Website outline.
+Built on a template, modified code.
